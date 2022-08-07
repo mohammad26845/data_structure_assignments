@@ -1,24 +1,29 @@
-# Assignment 1 (Linked lists)
+# Assignment 1
+
+## Topics raised
+
+- Linked lists
+- Bubble sort
+
+<br>
 
 ## Question
 
 <br>
 
 
+1. Make a single linked list of integers.  There should be at least 15 nodes,. The list should not be sorted.
 
-1- Make a single linked list of integers.  There should be at least 15 nodes,. The list should not be sorted.
+2. Traverse the list.
 
-2- Traverse the list.
+3. Now sort the list using Bubble sort.  do not use any other sorting algorithm.
 
-3- Now sort the list using Bubble sort.  do not use any other sorting algorithm.
+4. Traverse the list again.
 
-4- Traverse the list again.
-
-5- Submit the complete code.
+5. Submit the complete code.
 
 <br>
 
-<hr>
 
 <br>
 
